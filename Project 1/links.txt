@@ -1,0 +1,12 @@
+https://blog.quantinsti.com/machine-learning-classification-strategy-python/
+
+
+https://blog.quantinsti.com/machine-learning-k-nearest-neighbors-knn-algorithm-python/
+
+
+npy
+https://blog.quantinsti.com/python-numpy-tutorial-installation-arrays-random-sampling/
+
+
+mavgs:
+https://www.google.com/amp/s/www.geeksforgeeks.org/how-to-calculate-moving-average-in-a-pandas-dataframe/amp/
